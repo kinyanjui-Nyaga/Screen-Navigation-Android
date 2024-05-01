@@ -8,5 +8,17 @@ Welcome to the Android Screen Navigation! This lightweight and intuitive applica
 
 ### Tech Stack <a name="tech-stack"></a>
 
+<details>
+  <summary> Language </summary>
+  <ul>
+    <li><a href="/"> Kotlin and Jetpack Compose.</a></li>
+  </ul>
+</details>
 
+## 👥 Authors <a name="authors"></a>
 
+👤 **David Kinyanjui Nyaga**
+
+- GitHub: [@githubhandle](https://github.com/kinyanjui-Nyaga/)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/david-kinyanjui-software-developer/)
